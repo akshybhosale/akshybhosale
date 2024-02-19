@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Passionate about coding, building, and innovating. Always striving to learn and grow. Let's collaborate and create something awesome together! 🚀
+
+Tech enthusiast exploring the intersections of art, science, and technology. From algorithms to aesthetics, I'm fascinated by it all. Let's explore the possibilities and push the boundaries of what's possible! 🎨✨
