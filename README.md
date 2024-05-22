@@ -22,7 +22,7 @@ Tech enthusiast exploring the intersections of art, science, and technology. Fro
 # Hi👋, This is Akshay Bhosale, I am a Frontend Developer and an Open Source enthusiast. 
 I am a passionate Frontend Developer with love for Javascript and Reactjs and want to pave my path for Fullstack Development. I am a curious kid in everything, love to explore new things and technolgies. I believe in community work and have just started with open source development. Personally I love to follow my hobbies other than coding and studies. I have found my new interest in hackathons, have participated in one an looking forward for more. I would love to be a part of your work. Email me akshay.in72@gmail.com.
 
-Skills: HTML5/CSS3/Bootstrap/Tailwind/Java/C++/Javascript/Reactjs/Redux/Hook?Material UI
+Skills: HTML5/CSS3/Bootstrap/Tailwind/Java/C++/Javascript/Reactjs/Redux/Hook/Material UI/Rest API
 * 🏗️ I am currently working on my personal projects to upskill myself in Reactjs and nodejs.
 * 🏹 I want to become a Full stack Developer, half way done.
 * 🤍 I believe in learning by doing.
